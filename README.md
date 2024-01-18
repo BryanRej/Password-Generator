@@ -14,3 +14,11 @@ The project consists of an imported string and random Python library. a function
 
 - <b>Replit</b> 
 
+<h2>Password Examples:</h2>
+<p align="center">
+ Simple Password.<br/>
+<img src="https://i.imgur.com/PXtnZ3C.png"="80%" width="80%" alt="Password"/>
+<br />
+<br />
+ Complex Password.<br/>
+<img src="https://i.imgur.com/1i8p4rf.png"="80%" width="80%" alt="Password"/>
